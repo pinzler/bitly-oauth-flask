@@ -5,7 +5,7 @@
 
 Go to http://bitly.com/a/oauth_apps and follow the steps to register a new application.
 
-Make sure to use your Client ID and Client Secret in index.html.erb and welcome_controller.rb.
+Make sure to use your Client ID and Client Secret in templates/welcome.html and bitly_oauth.py.
 
 
 ## The files
